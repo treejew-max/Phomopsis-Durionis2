@@ -1,0 +1,2 @@
+# Phomopsis-Durionis2
+ตรวจสอบวินิจฉัยโรคพืช: กรณีศึกษาโรคใบจุด Phomopsis ในทุเรียน (Durio zibethinus Murr.) 
